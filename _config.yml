@@ -10,15 +10,15 @@ locale                   : "en-UK"
 title                    : "Ana Samperiz"
 title_separator          : "-"
 name                     : &name "Ana Samperiz"
-description              : &description 
+description              : &description "PhD in Earth Sciences"
 url                      : https://anasamperiz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anasamperiz/anasamperiz.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts "disabled"
+future                   : false
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "dark" (default), "light"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@ana_sampe"
+  username               : ana_sampe
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : profile.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,26 +73,26 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "custom"
+  provider               : "false" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          :
+    tracking_id          : 
+  goatcounter:
+    code		 : 
 
 
 # Site Author
 author:
   name             : "Ana Samperiz"
-  avatar           : 
+  avatar           : "profile.png"
   bio              : "PhD researcher at Cardiff University. Interested in coral growth processes, isotope and trace metal geochemistry,
   and paleoceanography."
-  location         : "Cardiff, UK"
-  employer         : 
-  email            : "samperizvizcainoa@cardiff.ac.uk"  
-  twitter          : "@ana_sampe"
+  location         :
+  employer         :
+  pubmed           :
+  orcid            : "https://orcid.org/0000-0002-9553-1124"
   googlescholar    : "https://scholar.google.com/citations?user=gfOeu-sAAAAJ&hl=es"
-  researchgate     : "https://www.researchgate.net/profile/Ana-Samperiz"  # example: "https://www.researchgate.net/profile/yourprofile"
-  orcid            : "https://orcid.org/0000-0002-9553-1124"  
-  github           : "anasamperiz"
-  pubmed           : 
+  email            : "samperizvizcainoa@cardiff.ac.uk"
+  researchgate     :  "https://www.researchgate.net/profile/Ana-Samperiz" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,17 +100,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  github           : "anasamperiz"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
+  twitter          : "@ana_sampe"
   vine             :
   weibo            :
   xing             :
@@ -176,13 +179,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -228,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
