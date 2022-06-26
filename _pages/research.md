@@ -33,11 +33,25 @@ Ninety-three stylasterids were selected from locations including the Southern Oc
 
 Oxygen and carbon (δ<sup>18</sup>O and δ<sup>13</sup>C) isotopic composition was measured in all the specimens. Five specimens were sub-sampled in the main trunk, secondary branches and growing tips. All data were below equilibrium, with the tips of the colonies having the lightest values, and the trunk being the heaviest. The δ<sup>18</sup>O and δ<sup>13</sup>C range within a single specimen is lower compared to published values in deep-sea scleractinian corals. All the specimens were subsampled in the main trunk. Their δ<sup>18</sup>O and δ<sup>13</sup>C was measured and compared to local hydrographic data to gain insight into calcification mechanisms and test their use as paleotemperature archives. Different isotopic values were found between aragonitic and calcitic samples. Calcitic corals showed less depleted values from equilibrium for δ<sup>18</sup>O but a higher depletion forδ<sup>13</sup>C. 
 
-The data indicate that environmental temperature is recorded in the skeletal chemistry of stylasterid corals. A global δ<sup>18</sup>O:temperature calibration for aragonitic stylasterids was produced. This calibration showed a mean depletion of 0.97‰ from equilibrium. This work highlights the potential application of stylasterid coral δ<sup>18</sup>O data to reconstruct ancient seawater temperature.
+<p>The data indicate that environmental temperature is recorded in the skeletal chemistry of stylasterid corals. A global δ<sup>18</sup>O:temperature calibration for aragonitic stylasterids was produced. This calibration showed a mean depletion of 0.97‰ from equilibrium. This work highlights the potential application of stylasterid coral δ<sup>18</sup>O data to reconstruct ancient seawater temperature.
 
-<img src="research/IMG_7262 (2).JPG" alt="Stylasterid coral" width="500" height="600">
+<img src="https://github.com/anasamperiz/anasamperiz.github.io/blob/master/images/research/IMG_7262%20(2).JPG" alt="Stylasterid coral" width="600" height="450"></p>
 
 <h4>Output:</h4> Samperiz, A., Robinson, L., Stewart, J., Strawson, I., Leng, M., Rosenheim, B., Ciscato, E., Hendry, K., Santodomingo, N. 2020.  <a href='https://doi.org/10.1016/j.epsl.2020.116407'>Stylasterids: A new paleoceanographic archive.</a> <i>Earth and Planetary Science Letters</i> 545:116407. doi:10.1016/j.epsl.2020.116407
+
+BSc dissertation - Design, implementation and evaluation of an Environmental Education Program in a Summer Camp
+
+The requirement of looking for solutions to face the actual environmental crisis has raised environmental education (EE) as an essential tool for formation and training. The main objective is turning people into responsible environmental citizens. 
+
+Since its inception in 1968 to the present, EE has been built in several national and international institutions, which have applied it from different approaches. However, non-formal EE has been more successful in looking for a critical reflection of our actual society. 
+
+The objective of this dissertation is the design, implementation and evaluation of a non-formal EE program in a summer camp called “Confluencias” (confluences), carried out in July 2014, and, also, reaching knowledge and attitude changes towards the environment in the participants: 76 teenagers between 14 and 17 years old. The activities which compound the program deal with related content about country side and urban environment. Pre-activity and post-activity surveys were used for the assessment, which data was analyzed by the Wilcoxon test to related samples. 
+
+The results showed that there were no changes in the knowledge and perception about the environment, but important differences in the attitudes the subjects showed were found, mainly about their roles in the environmental care and how the environmental status is able to influence their day by day. In conclusion, the target was reached partially and the methodology used for the realization of the program was adequate and does not present problems in its development.
+
+<img src="https://github.com/anasamperiz/anasamperiz.github.io/blob/master/images/research/condflu.png">
+
+<h4>Output:</h4> Samperiz, A., Herrero, J. 2018.  <a href='https://doi.org/10.1080/1533015X.2017.1366881'>Evaluation of a summer camp environmental education program in Spain.</a> <i>Applied Environmental Education & Communication</i> 17(1), 79-90. doi:10.1080/1533015X.2017.1366881
 <nbsp>
 
 {% include base_path %}
