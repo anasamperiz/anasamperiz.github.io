@@ -1,6 +1,6 @@
 ---
-permalink: /software/
-title: "Software"
+permalink: /skills/
+title: "Skills"
 gallery:
   - url: software/table.png
     image_path: software/table.png
