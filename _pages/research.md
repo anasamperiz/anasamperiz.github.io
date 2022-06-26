@@ -36,9 +36,9 @@ Oxygen and carbon (δ<sup>18</sup>O and δ<sup>13</sup>C) isotopic composition w
 
 ![](/images/research/IMG_7262%20(2).JPG)
   
-<h4>Output:</h4> Samperiz, A., Robinson, L., Stewart, J., Strawson, I., Leng, M., Rosenheim, B., Ciscato, E., Hendry, K., Santodomingo, N. 2020.  <a href='https://doi.org/10.1016/j.epsl.2020.116407'>Stylasterids: A new paleoceanographic archive.</a> <i>Earth and Planetary Science Letters</i> 545:116407. doi:10.1016/j.epsl.2020.116407
+<b>Output:</b> Samperiz, A., Robinson, L., Stewart, J., Strawson, I., Leng, M., Rosenheim, B., Ciscato, E., Hendry, K., Santodomingo, N. 2020.  <a href='https://doi.org/10.1016/j.epsl.2020.116407'>Stylasterids: A new paleoceanographic archive.</a> <i>Earth and Planetary Science Letters</i> 545:116407. doi:10.1016/j.epsl.2020.116407
 
-BSc dissertation - Design, implementation and evaluation of an Environmental Education Program in a Summer Camp
+<h3>BSc dissertation - Design, implementation and evaluation of an Environmental Education Program in a Summer Camp</h3>
 
 The requirement of looking for solutions to face the actual environmental crisis has raised environmental education (EE) as an essential tool for formation and training. The main objective is turning people into responsible environmental citizens. 
 
@@ -50,5 +50,5 @@ The results showed that there were no changes in the knowledge and perception ab
 
 ![](/images/research/condflu.png)
 
-<h4>Output:</h4> Samperiz, A., Herrero, J. 2018.  <a href='https://doi.org/10.1080/1533015X.2017.1366881'>Evaluation of a summer camp environmental education program in Spain.</a> <i>Applied Environmental Education & Communication</i> 17(1), 79-90. doi:10.1080/1533015X.2017.1366881
+<b>Output:</b> Samperiz, A., Herrero, J. 2018.  <a href='https://doi.org/10.1080/1533015X.2017.1366881'>Evaluation of a summer camp environmental education program in Spain.</a> <i>Applied Environmental Education & Communication</i> 17(1), 79-90. doi:10.1080/1533015X.2017.1366881
 <nbsp>
