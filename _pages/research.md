@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: 
 author_profile: true
 header:
-  og_image: "research/ecdf.png"
 ---
 
 <h3>PhD thesis - From watershed to reef: reconstructing the history of land use change and coral reef health in Fiji</h3> 
@@ -53,11 +52,3 @@ The results showed that there were no changes in the knowledge and perception ab
 
 <h4>Output:</h4> Samperiz, A., Herrero, J. 2018.  <a href='https://doi.org/10.1080/1533015X.2017.1366881'>Evaluation of a summer camp environmental education program in Spain.</a> <i>Applied Environmental Education & Communication</i> 17(1), 79-90. doi:10.1080/1533015X.2017.1366881
 <nbsp>
-
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
