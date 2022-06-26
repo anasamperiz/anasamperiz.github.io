@@ -34,8 +34,8 @@ Oxygen and carbon (δ<sup>18</sup>O and δ<sup>13</sup>C) isotopic composition w
 
 <p>The data indicate that environmental temperature is recorded in the skeletal chemistry of stylasterid corals. A global δ<sup>18</sup>O:temperature calibration for aragonitic stylasterids was produced. This calibration showed a mean depletion of 0.97‰ from equilibrium. This work highlights the potential application of stylasterid coral δ<sup>18</sup>O data to reconstruct ancient seawater temperature.
 
-<img src="https://github.com/anasamperiz/anasamperiz.github.io/blob/master/images/research/IMG_7262%20(2).JPG" alt="Stylasterid coral" width="600" height="450"></p>
-
+![](/images/research/IMG_7262%20(2).JPG)
+  
 <h4>Output:</h4> Samperiz, A., Robinson, L., Stewart, J., Strawson, I., Leng, M., Rosenheim, B., Ciscato, E., Hendry, K., Santodomingo, N. 2020.  <a href='https://doi.org/10.1016/j.epsl.2020.116407'>Stylasterids: A new paleoceanographic archive.</a> <i>Earth and Planetary Science Letters</i> 545:116407. doi:10.1016/j.epsl.2020.116407
 
 BSc dissertation - Design, implementation and evaluation of an Environmental Education Program in a Summer Camp
@@ -48,7 +48,7 @@ The objective of this dissertation is the design, implementation and evaluation 
 
 The results showed that there were no changes in the knowledge and perception about the environment, but important differences in the attitudes the subjects showed were found, mainly about their roles in the environmental care and how the environmental status is able to influence their day by day. In conclusion, the target was reached partially and the methodology used for the realization of the program was adequate and does not present problems in its development.
 
-<img src="https://github.com/anasamperiz/anasamperiz.github.io/blob/master/images/research/condflu.png">
+![](/images/research/condflu.png)
 
 <h4>Output:</h4> Samperiz, A., Herrero, J. 2018.  <a href='https://doi.org/10.1080/1533015X.2017.1366881'>Evaluation of a summer camp environmental education program in Spain.</a> <i>Applied Environmental Education & Communication</i> 17(1), 79-90. doi:10.1080/1533015X.2017.1366881
 <nbsp>
