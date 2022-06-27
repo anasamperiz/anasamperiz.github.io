@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Ana Samperiz"
+title                    : "Ana Samperi"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Test"
 description              : &description "PhD in Earth Sciences"
 url                      : https://anasamperiz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
