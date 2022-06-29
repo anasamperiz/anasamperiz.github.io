@@ -13,8 +13,8 @@ gallery:
     alt: "stable isotopes plot"
     title: "Stable isotopes plot"
 gallery2:
-  - url: research/condflu.png.jpg
-    image_path: research/condflu.png.
+  - url: research/condflu.png
+    image_path: research/condflu.png
     alt: "Confluencias 2014"
     title: "Confluencias 2014"
 header:
@@ -60,7 +60,7 @@ The objective of this dissertation was the design, implementation and evaluation
   
 To this day, this environmental program is still being carried outat  “Confluencias” summer camp and has become an iterative project that evolves growing knowledge and worries of teenagers about climate change. 
 
-{% include gallery 2 %}
+{% include gallery2 %}
 
 <b>Output:</b> Samperiz, A., Herrero, J. 2018.  <a href='https://doi.org/10.1080/1533015X.2017.1366881'>Evaluation of a summer camp environmental education program in Spain.</a> <i>Applied Environmental Education & Communication</i> 17(1), 79-90. doi:10.1080/1533015X.2017.1366881
 <nbsp>
