@@ -3,9 +3,6 @@ permalink: /icrs/
 title: "ICRS 2022"
 excerpt: 
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 Hello! You can download my ICRS 2022 poster [here](https://github.com/anasamperiz/anasamperiz.github.io/blob/master/images/research/poster_last_300dpi.pdf). 
 
