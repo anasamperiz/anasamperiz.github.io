@@ -19,13 +19,13 @@ This is an activity targeted towards KS4 (and KS3 Yr9) and has a duration of 1h3
 - ### Meet an Earth Scientist – The Geological Society
 This talk is framed within the European Researcher’s Night and organised by the Geological Society of.  During different sessions, students and teachers had the chance to meet four women earth scientist and learn about their jobs. 
 
-Here I talked about corals and how we can use them to decipher what the ocean was like in the past. 
+  Here I talked about corals and how we can use them to decipher what the ocean was like in the past. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_JTchHJEqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - ### Tales from the reef: The impact of environmental changes on corals - GeoTalks webinar series University 
 GeoTalks are organised by the School of Earth and Environmental Science from Cardiff University and they represent a chance for the general public to join researchers as they discuss the processes that shape our planet, natural environments, and why geoscience is important for our societies.
 
-On this webinar we discuss corals, the tiny animals that build some of the largest living structures on Earth, being threatened by global warming, ocean acidification, water pollution and overfishing. Also, we explore how coral scientists recover past environmental clues from long-lived corals, and why this information is important to understand how coral reefs will respond to future change.
+  On this webinar we discuss corals, the tiny animals that build some of the largest living structures on Earth, being threatened by global warming, ocean acidification, water pollution and overfishing. Also, we explore how coral scientists recover past environmental clues from long-lived corals, and why this information is important to understand how coral reefs will respond to future change.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3XPbmNAqXGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
