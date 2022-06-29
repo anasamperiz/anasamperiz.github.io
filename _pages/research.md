@@ -13,10 +13,14 @@ gallery:
     alt: "stable isotopes plot"
     title: "Stable isotopes plot"
 gallery2:
-  - url: research/condflu.png
-    image_path: research/condflu.png
-    alt: "Confluencias 2014"
-    title: "Confluencias 2014"
+   - url: research/IMG_7262 (2).jpg
+    image_path: research/IMG_7262 (2).jpg
+    alt: "Stylasterid coral"
+    title: "Stylasterid coral"
+  - url: research/intra errina.png
+    image_path: research/intra errina.png
+    alt: "stable isotopes plot"
+    title: "Stable isotopes plot"
 header:
 ---
 
