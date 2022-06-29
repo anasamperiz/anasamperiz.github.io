@@ -30,7 +30,7 @@ The main research questions we are addressing are:
 1.	How does coral growth change across space and time in Fijian inshore reefs?
 2.	How do environmental conditions and climatic events affect different inshore reefs in Fiji?
 3.	Can massive Porites corals be used as inshore water quality proxy?
-4.	
+
 Understanding the response of massive long-lived corals to environmental changes over time, as a result of climate and biogeochemical shifts, is critical for the assessment of the future of modern coral reefs.
 
 To address these questions, I am using an interdisciplinary approach that couples traditional geochemical techniques (i.e. Ba/Ca, Mn/Ca, Sr/Ca,… ) and computed tomography (CT) to reconstruct seasonal changes in coral growth (i.e. linear extension, density and calcification) from massive long-lived Porites corals under a range of different catchment environments (agricultural, urban and forested) and a number of stress events (e.g. thermal stress, cyclones).
