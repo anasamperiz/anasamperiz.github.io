@@ -14,7 +14,7 @@ gallery:
     title: "Stable isotopes plot"
 gallery2:
   - url: research/condflu.png.jpg
-    image_path: research/condflu.png.jpg
+    image_path: research/condflu.png.
     alt: "Confluencias 2014"
     title: "Confluencias 2014"
 header:
