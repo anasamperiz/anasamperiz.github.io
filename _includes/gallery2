@@ -7,7 +7,7 @@
 {% endif %}
 
 {% if gallery.size == 1 %}
-  {% assign gallery_layout = '' %}
+  {% assign gallery_layout = 'half' %}
 {% elsif gallery.size >= 3 %}
   {% assign gallery_layout = 'third' %}
 {% else %}
