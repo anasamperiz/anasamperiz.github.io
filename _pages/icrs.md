@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /icrs/
 title: "ICRS 2022"
 excerpt: 
 author_profile: true
