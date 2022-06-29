@@ -58,7 +58,7 @@ Since its inception in 1968 to the present, EE has been built in several nationa
   
 The objective of this dissertation was the design, implementation and evaluation of a non-formal EE program in a summer camp called “Confluencias” (confluences), carried out in July 2014, and, also, gaining knowledge and attitude changes towards the environment in the camp participants: 76 teenagers between 14 and 17 years old. The program included activities around both natural and urban environments and the results showed that important differences in the participant’s attitudes towards the environment were reached, changing their perception on how the environment influences their daily lives. 
   
-To this day, this environmental program is still being carried outat  “Confluencias” summer camp and has become an iterative project that evolves growing knowledge and worries of teenagers about climate change. 
+To this day, this environmental program is still being carried out at  “Confluencias” summer camp and has become an iterative project that evolves growing knowledge and worries of teenagers about climate change. 
 
 {% include gallery2 %}
 
