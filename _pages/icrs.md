@@ -7,12 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! You can download my ICRS 2022 poster here. 
+Hello! You can download my ICRS 2022 poster [here](https://github.com/anasamperiz/anasamperiz.github.io/blob/master/files/pdf/AnaS_CV.pdf). 
 
-<iframe
-    src="https://drive.google.com/viewerng/viewer?embedded=true&url=[http://infolab.stanford.edu/pub/papers/google.pdf](https://github.com/anasamperiz/anasamperiz.github.io/blob/master/files/pdf/AnaS_CV.pdf)#toolbar=0&scrollbar=0"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></iframe>
+<object data="https://github.com/anasamperiz/anasamperiz.github.io/blob/master/files/pdf/AnaS_CV.pdf" type="application/pdf" width="100%" height="800px">
+ <p>It appears you don't have a PDF plugin for this browser.
+ No biggie... you can <a href="https://github.com/anasamperiz/anasamperiz.github.io/blob/master/files/pdf/AnaS_CV.pdf">click here to
+  download the PDF file.</a></p>
+</object>
