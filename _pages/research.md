@@ -13,14 +13,10 @@ gallery:
     alt: "stable isotopes plot"
     title: "Stable isotopes plot"
 gallery2:
-   - url: research/IMG_7262 (2).jpg
+  - url: research/IMG_7262 (2).jpg
     image_path: research/IMG_7262 (2).jpg
     alt: "Stylasterid coral"
     title: "Stylasterid coral"
-  - url: research/intra errina.png
-    image_path: research/intra errina.png
-    alt: "stable isotopes plot"
-    title: "Stable isotopes plot"
 header:
 ---
 
