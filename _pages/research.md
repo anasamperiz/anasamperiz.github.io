@@ -12,15 +12,6 @@ gallery:
     image_path: research/intra errina.png
     alt: "stable isotopes plot"
     title: "Stable isotopes plot"
-gallery2:
-  - url: research/IMG_7262 (2).jpg
-    image_path: research/IMG_7262 (2).jpg
-    alt: "Stylasterid coral"
-    title: "Stylasterid coral"
-  - url: research/intra errina.png
-    image_path: research/intra errina.png
-    alt: "stable isotopes plot"
-    title: "Stable isotopes plot"
 header:
 ---
 
@@ -56,7 +47,6 @@ Oxygen and carbon (δ<sup>18</sup>O and δ<sup>13</sup>C) isotopic composition w
   
 <b>Output:</b> Samperiz, A., Robinson, L., Stewart, J., Strawson, I., Leng, M., Rosenheim, B., Ciscato, E., Hendry, K., Santodomingo, N. 2020.  <a href='https://doi.org/10.1016/j.epsl.2020.116407'>Stylasterids: A new paleoceanographic archive.</a> <i>Earth and Planetary Science Letters</i> 545:116407. doi:10.1016/j.epsl.2020.116407
 
-{% include gallery2 %}
 
 <h3>BSc dissertation - Design, implementation and evaluation of an Environmental Education Program in a Summer Camp</h3>
 
