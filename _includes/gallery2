@@ -3,11 +3,11 @@
 {% if include.id %}
   {% assign gallery = page.[include.id] %}
 {% else %}
-  {% assign gallery = page.gallery %}
+  {% assign gallery = page.gallery2 %}
 {% endif %}
 
-{% if gallery.size == 2 %}
-  {% assign gallery_layout = 'half' %}
+{% if gallery.size == 1 %}
+  {% assign gallery_layout = '' %}
 {% elsif gallery.size >= 3 %}
   {% assign gallery_layout = 'third' %}
 {% else %}
@@ -15,7 +15,7 @@
 {% endif %}
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
-  {% for img in gallery %}
+  {% for img in gallery2 %}
     {% if img.url %}
       <a href=
         {% if img.url contains "://" %}
@@ -47,15 +47,3 @@
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
 </figure>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
