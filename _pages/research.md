@@ -22,23 +22,23 @@ header:
 
 <h3>PhD thesis - From watershed to reef: reconstructing the history of land use change and coral reef health in Fiji</h3> 
 
-My current project focuses on disentangling how climate change and land use are impacting the growth of massive reef-building coral (Porites) in Fiji, and how abrupt terrestrial discharges into coastal ecosystems are linked to coral degradation.
+My current project focuses on disentangling how climate change and land use are impacting the growth of massive reef-building coral (<i>Porites</i>) in Fiji, and how abrupt terrestrial discharges into coastal ecosystems are linked to coral degradation.
 
-I aim to disentangle the relationships between coral growth, water quality and climatic events in Fijian inshore reefs, and reconstruct the sensitivity of reef-building corals to environmental changes in the last century.
+I aim to disentangle the relationships between coral growth, water quality and climatic events in Fijian inshore reefs, and reconstruct the sensitivity of reef-building corals to environmental changes in the last few decades.
 
 The main research questions we are addressing are:
 1.	How does coral growth change across space and time in Fijian inshore reefs?
 2.	How do environmental conditions and climatic events affect different inshore reefs in Fiji?
-3.	Can massive Porites corals be used as inshore water quality proxy?
+3.	Can massive <i>Porites</i> corals be used as inshore water quality proxy?
 
 Understanding the response of massive long-lived corals to environmental changes over time, as a result of climate and biogeochemical shifts, is critical for the assessment of the future of modern coral reefs.
 
-To address these questions, I am using an interdisciplinary approach that couples traditional geochemical techniques (i.e. Ba/Ca, Mn/Ca, Sr/Ca,… ) and computed tomography (CT) to reconstruct seasonal changes in coral growth (i.e. linear extension, density and calcification) from massive long-lived Porites corals under a range of different catchment environments (agricultural, urban and forested) and a number of stress events (e.g. thermal stress, cyclones).
+To address these questions, I am using an interdisciplinary approach that couples traditional geochemical techniques (i.e. Ba/Ca, Mn/Ca, Sr/Ca,… ) and computed tomography (CT) to reconstruct seasonal changes in coral growth (i.e. linear extension, density and calcification) from massive long-lived <i>Porites</i> corals under a range of different catchment environments (agricultural, urban and forested) and a number of stress events (e.g. thermal stress, cyclones).
 
 
 <h3>MRes - Stylasterids: A new paleoceanographic archive?</h3>
 
-During my master’s project I worked on proxy development on stylasterid corals (Picture 1), specifically analysing whether oxygen stable isotopes (δ<sup>18</sup>O) can be used as a proxy for seawater temperatures in these corals. 
+During my master’s project I worked on proxy development on stylasterid corals (Picture 1), specifically analysing whether oxygen stable isotopes (δ<sup>18</sup>O) can be used as a proxy for seawater temperature in these corals. 
   
 Stylasterids are a commonly found deep-sea coral taxon that build their skeletons from either calcite or aragonite (or both). Their potential as paleoceanographic archives remains unexplored and robust geochemical proxy data collected from modern specimens is very limited. 
 
@@ -51,7 +51,7 @@ Oxygen and carbon (δ<sup>18</sup>O and δ<sup>13</sup>C) isotopic composition w
 
 <h3>BSc dissertation - Design, implementation and evaluation of an Environmental Education Program in a Summer Camp</h3>
 
-  At the end of my BSc program and as a 4<sup>th</sup> year research project I carried out an environmental education program at a summer camp in Spain. 
+At the end of my BSc program and as a 4<sup>th</sup> year research project I carried out an environmental education program at a summer camp in Spain. 
 The need for solutions to face the actual environmental crisis has raised environmental education (EE) as an essential tool for formation and training whose main objective is turning people into responsible environmental citizens.
   
 Since its inception in 1968 to the present, EE has been built in several national and international institutions, which have applied it from different approaches. However, non-formal EE has been more successful in looking for a critical reflection of our actual society.
