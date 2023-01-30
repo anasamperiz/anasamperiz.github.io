@@ -12,4 +12,4 @@ Hi there! I am a PhD researcher at Cardiff University (UK). My main research int
 
 I obtained a BSc in Environmental Sciences (University of Zaragoza, 2014) specialising in environmental education, and a MSci by Research in Earth Sciences at the University of Bristol (2018) investigating the potential of stylasterid deep-sea corals as paleotemperature archives. For my PhD, I am researching coral growth from massive corals in Fiji and how they have been impacted by environmental and climate change over the last three decades using both physical and geochemical proxies. 
 
-### Looking for a postdoc starting in 2023
+
