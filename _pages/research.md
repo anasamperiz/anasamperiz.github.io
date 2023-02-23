@@ -20,20 +20,20 @@ gallery2:
 header:
 ---
 
-<h3>PhD thesis - From watershed to reef: reconstructing the history of land use change and coral reef health in Fiji</h3> 
+<h3>PhD thesis - Sclerochornological and geochemical records from <i>Porites</i> spp. in Fiji: Assessing massive coral response to environmental changes</h3> 
 
-My current project focuses on disentangling how climate change and land use are impacting the growth of massive reef-building coral (<i>Porites</i>) in Fiji, and how abrupt terrestrial discharges into coastal ecosystems are linked to coral degradation.
+My project focused on disentangling how environmental and climate changes are impacting the growth of massive reef-building coral (<i>Porites</i>) spp. in Fiji, and how abrupt terrestrial discharges into coastal ecosystems and climatic events are linked to coral degradation.
 
 I aim to disentangle the relationships between coral growth, water quality and climatic events in Fijian inshore reefs, and reconstruct the sensitivity of reef-building corals to environmental changes in the last few decades.
 
-The main research questions we are addressing are:
-1.	How does coral growth change across space and time in Fijian inshore reefs?
-2.	How do environmental conditions and climatic events affect different inshore reefs in Fiji?
-3.	Can massive <i>Porites</i> corals be used as inshore water quality proxy?
+The main research aims we addressed are:
+1.	To examine the variability of coral growth across different Fijian inshore reefs and across time.
+2.	Evaluate the potential of <i>Porites</i> spp. as SST archive and analyse environmental controls on skeletal geochemistry.
+3.	To examine the potential of <i>Porites</i> spp. as archives of terrigenous input into coastal areas, and the environmental and climatic controls. 
 
 Understanding the response of massive long-lived corals to environmental changes over time, as a result of climate and biogeochemical shifts, is critical for the assessment of the future of modern coral reefs.
 
-To address these questions, I am using an interdisciplinary approach that couples traditional geochemical techniques (i.e. Ba/Ca, Mn/Ca, Sr/Ca,… ) and computed tomography (CT) to reconstruct seasonal changes in coral growth (i.e. linear extension, density and calcification) from massive long-lived <i>Porites</i> corals under a range of different catchment environments (agricultural, urban and forested) and a number of stress events (e.g. thermal stress, cyclones).
+To address these questions, I am using an interdisciplinary approach that couples traditional geochemical techniques (i.e. Ba/Ca, Mn/Ca, Sr/Ca,… measured via LA-ICPMS) and computed tomography (CT) to reconstruct seasonal changes in coral growth (i.e. linear extension, density and calcification) from massive long-lived <i>Porites</i> corals under a range of different catchment environments (agricultural, urban and forested) and a number of stress events (e.g. thermal stress, cyclones).
 
 
 <h3>MRes - Stylasterids: A new paleoceanographic archive?</h3>
