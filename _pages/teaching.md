@@ -14,7 +14,7 @@ This is an activity targeted towards KS4 (and KS3 Yr9) and has a duration of 1h3
 
 ![](/images/research/core urban.png)
 
-If you would like to know more about this activity, <u>get in touch!</u>
+If you would like to know more about this activity, <u>get in touch!</u> 
 
 ## Public talks 
 - ### Meet an Earth Scientist – The Geological Society
