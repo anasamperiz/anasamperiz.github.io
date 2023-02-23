@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "Ana Samperiz"
-description              : &description "PhD in Earth Sciences"
+description              : &description "PhD in Earth and Environmental Sciences"
 url                      : https://anasamperiz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anasamperiz/anasamperiz.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Ana Samperiz"
   avatar           : "nt8i0Gir_400x400.jpg"
-  bio              : "PhD researcher at Cardiff University. Interested in coral growth processes, isotope and trace metal geochemistry,
+  bio              : "Research Associate in Analytical Trace Metal Geochemistry at Cardiff University. Interested in coral growth processes, isotope and trace metal geochemistry,
   and paleoceanography."
   location         :
   employer         :
