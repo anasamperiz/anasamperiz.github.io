@@ -14,6 +14,7 @@ This is an activity targeted towards KS4 (and KS3 Yr9) and has a duration of 1h3
 
 ![](/images/research/core urban.png)
 
+If you would like to know more about this activity, <u>get in touch!</u>
 
 ## Public talks 
 - ### Meet an Earth Scientist – The Geological Society
@@ -33,6 +34,10 @@ GeoTalks are organised by the School of Earth and Environmental Sciences from Ca
 - ### Sobre arrecifes de coral y cambio climático – Nos vamos de Podcast
 An interview in “Nos vamos de podcast” hosted by Ana Baquerizo where we discuss how climate change is affecting coral reefs around the world (in Spanish).
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4tROfIBpFAk1NiZ5vt5Ho5?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+- ### ¿El fin de los corales? – Noosfera
+An interesting chat abput what are corals, why are they so important for human society and what is endangering them in “Noosfera”, the La Razón science podcast, hosted by Ignacio Crespo (in Spanish).
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0W8z5udg8xG8WWXpIknkw6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 # Teaching
