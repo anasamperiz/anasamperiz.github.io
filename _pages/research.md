@@ -19,7 +19,7 @@ gallery2:
     title: "Stylasterid coral"
 header:
 ---
-
+ 
 <h3>PhD thesis - Sclerochronological and geochemical records from <i>Porites</i> spp. in Fiji: Assessing massive coral response to environmental changes</h3> 
 
 My project focused on disentangling how environmental and climate changes are impacting the growth of massive reef-building coral (<i>Porites</i> spp.) in Fiji, and how abrupt terrestrial discharges into coastal ecosystems and climatic events are linked to coral degradation.
