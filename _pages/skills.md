@@ -11,8 +11,6 @@ The primary methodologies and lab-based skills I have developed during my career
  - Physical and chemical cleaning of marine samples and sample preparation for AMS and MC-ICP-MS analyses.
  - Stylasterid and scleractinia corals morphological identification up to species level.
 
-I also have some experience with XRD analysis and Raman spectroscopy. 
-
 ## In the office
 - Remote Sensing: I have experience collecting and processing remote sensing environmental data (Level 2 and Level 3). These include derived variables from ocean colour (e.g., seawater turbidity, chlorophyll-a concentration, particulate organic and inorganic matter), seawater temperature and salinity, cloud cover, wind speed and direction and precipitation. 
 - CT processing: I use Avizo (Thermo Fisher Scientific) and Image J (FIJI) to process CT data and obtain growth measurements (linear extension, density, calcification) from coral samples. 
