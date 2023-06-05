@@ -22,6 +22,8 @@ header:
  
 <h3>PhD thesis - Sclerochronological and geochemical records from <i>Porites</i> spp. in Fiji: Assessing massive coral response to environmental changes</h3> 
 
+My PhD thesis can be accessed [here](	https://orca.cardiff.ac.uk/id/eprint/159124).
+
 My project focused on disentangling how environmental and climate changes are impacting the growth of massive reef-building coral (<i>Porites</i> spp.) in Fiji, and how abrupt terrestrial discharges into coastal ecosystems and climatic events are linked to coral degradation.
 
 I aim to disentangle the relationships between coral growth, water quality and climatic events in Fijian inshore reefs, and reconstruct the sensitivity of reef-building corals to environmental changes in the last few decades.
