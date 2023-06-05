@@ -7,11 +7,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
- gallery:
-  - url: icon-big.png
-    image_path: icon-big.png
-    alt: "Coral sclerochornology icon"
-    title: "Coral sclerochornology icon"
+
 ---
 
 Hi there! I am a Research Associate in Analytical Trace Metal Geochemistry at Cardiff University (UK). My main research interests include understanding how corals grow, their response to both natural and anthropogenic environmental changes and their use as paleoceanographic archives using computerised tomography (CT) as well as a range of geochemical tools (stable isotopes and trace elements) using Laser Ablation (LA) - ICPMS.
