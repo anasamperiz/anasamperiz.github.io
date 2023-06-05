@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
  gallery:
-  - url: icon big.png
-    image_path: icon big.png
+  - url: icon-big.png
+    image_path: icon-big.png
     alt: "Coral sclerochornology icon"
     title: "Coral sclerochornology icon"
 ---
