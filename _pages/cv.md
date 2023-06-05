@@ -17,4 +17,4 @@ redirect_from:
        marginheight="0"
        ></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/AnaS_CV.pdf).
+You can download a PDF copy of my CV [here](/files/pdf/20230601_AnaS_CV.pdf).
