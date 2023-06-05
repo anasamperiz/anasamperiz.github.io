@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 gallery:
   - url: 
-    image_path: icon-big.png
+    image_path: icon-big2.png
     alt: "Coral sclerochornology icon"
     title: "Coral sclerochornology icon"
     justify-content: center
