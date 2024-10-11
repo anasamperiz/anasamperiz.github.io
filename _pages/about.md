@@ -22,4 +22,4 @@ Hi there! I am a Postdoctoral Research Associate at Florida State University wor
 I obtained a BSc in Environmental Sciences (University of Zaragoza, 2014) specialising in environmental education, and a MSci by Research in Earth Sciences at the University of Bristol (2018) investigating the potential of stylasterid deep-sea corals as paleotemperature archives. For my PhD, I researched coral growth from massive corals in Fiji and how they have been impacted by environmental and climate change over the last three decades using both sclerochronological and geochemical proxies. 
 
 
-<h1 style="font-size: 9;"><i>Site last updated: October 2024</i></h1>
+<p style="font-size: 9px;"><i>Site last updated: October 2024</i></p>
