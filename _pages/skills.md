@@ -21,6 +21,9 @@ The primary methodologies and lab-based skills I have developed during my career
 - I also have wide experience in environmental education and science communication, including organisation, design and implementation of activities. 
 
 ## Fieldwork experience
+### Galapagagos 2024
+This expedition took place in August 2024, during which we sailed the Galapagos archipelago and visited 10 island where we collected and drilled fossil specimens of massive shallow-water corals that have been washed ashore and deposited in coastal areas. 
+
 ### Galapagos Deep 2023 - AT50-09
 In this expedition (March - April 2023) in Galapagos we collected deep-sea live and fossil corals, seawater, basaltic lavas and sediment cores. On board, I lead the fossil coral sampling team and curation efforts, as well as the seawater sampling procedures. Also, implemented CTD instrumentation during water sampling and sediment coring. 
 
@@ -29,7 +32,7 @@ Read more about the Galapagos Deep 2023 Expedition [here](https://galapagosdeep2
 ### COACTION - Fiji 2019
 During this field campaign (February 2019) we collected a 50cm long core from a massive Diploastrea heliopora colony covering a span of over 100 years.  
 
-### ICY-LAB - DY081
+### ICY-LAB 2017 - DY081
 During the DY081 expedition (July - August 2017) we sailed around the Labrador Sea in the NW Atlantic collecting samples of seawater, particles, sediments, and biological specimens. My responsibilities on board included sorting and curating biological specimens, both living and fossil samples. I also helped deploying CTDs, and sediment coring instruments and onboard water sampling. 
 
 You can read more about the ICY-LAB project [here](https://icylab.wordpress.com/). 
