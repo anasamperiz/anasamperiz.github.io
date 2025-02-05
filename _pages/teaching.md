@@ -40,6 +40,7 @@ An interesting chat about what are corals, why are they so important for human s
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0W8z5udg8xG8WWXpIknkw6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
+
 # Teaching
 ## Current Issues in Environmental Sciences (OCE4017 - FSU, Fall24 & Fall25)
 The overarching themes of this course are the impacts of anthropogenic activity on the Earth’s systems (i.e., water and atmospheric pollution, waste production, climate change, biodiversity loss) and the need to implement solutions within the framework of sustainable development and the Sustainable Development Goals. This course focuses not only on general knowledge of environmental issues and how human society is facing them but pays special attention to the role of environmental scientists in this context. By better understanding the complexities of natural and human systems (scientific analysis) and communicating the science effectively to stakeholders, environmental scientists play a key part in society. 
