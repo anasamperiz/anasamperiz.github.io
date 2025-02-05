@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/pdf/20241010_AnaS_CV.pdf" 
+<iframe src="/files/pdf/20250205_AnaS_CV.pdf" 
        type="application/pdf"
        width="100%" 
        height="500" 
@@ -17,4 +17,4 @@ redirect_from:
        marginheight="0"
        ></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/20241010_AnaS_CV.pdf).
+You can download a PDF copy of my CV [here](/files/pdf/20250205_AnaS_CV.pdf).
