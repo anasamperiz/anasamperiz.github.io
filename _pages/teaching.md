@@ -39,7 +39,8 @@ An interview in “Nos vamos de podcast” hosted by Ana Baquerizo where we disc
 An interesting chat about what are corals, why are they so important for human society and what is endangering them in “Noosfera”, the La Razón science podcast, hosted by Ignacio Crespo (in Spanish).
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0W8z5udg8xG8WWXpIknkw6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
+<br>
+<br>
 
 # Teaching
 ## Current Issues in Environmental Sciences (OCE4017 - FSU, Fall24 & Fall25)
