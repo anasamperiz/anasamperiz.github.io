@@ -36,18 +36,24 @@ An interview in “Nos vamos de podcast” hosted by Ana Baquerizo where we disc
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4tROfIBpFAk1NiZ5vt5Ho5?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 - ### ¿El fin de los corales? – Noosfera
-An interesting chat abput what are corals, why are they so important for human society and what is endangering them in “Noosfera”, the La Razón science podcast, hosted by Ignacio Crespo (in Spanish).
+An interesting chat about what are corals, why are they so important for human society and what is endangering them in “Noosfera”, the La Razón science podcast, hosted by Ignacio Crespo (in Spanish).
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0W8z5udg8xG8WWXpIknkw6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 # Teaching
+## Current Issues in Environmental Sciences (OCE4017 - FSU, Fall24 & Fall25)
+The overarching themes of this course are the impacts of anthropogenic activity on the Earth’s systems (i.e., water and atmospheric pollution, waste production, climate change, biodiversity loss) and the need to implement solutions within the framework of sustainable development and the Sustainable Development Goals. This course focuses not only on general knowledge of environmental issues and how human society is facing them but pays special attention to the role of environmental scientists in this context. By better understanding the complexities of natural and human systems (scientific analysis) and communicating the science effectively to stakeholders, environmental scientists play a key part in society. 
+
+This is reflected in the Learning Outcomes of the course: 1) Understand the importance of ecosystem services, and how we depend on and affect them. 2) Acquire the necessary tools to critically evaluate environmental issues and approach them from sustainability. 3) Effectively communicate scientific data and results to decision-makers. 4) Reflect critically about our roles as citizens, consumers, and environmental actors in a complex, interconnected world. 
+
+
 ## Student supervision
-- Mr Jacob Lloyd-Newman: I co-supervised this MSci research project. This work examined the potential drivers of bioerosion in massive <i>Porites</i> on an inshore reef in Fiji using computed tomography (CT) to quantify annual bioerion rates on a coral core. 
+- Mr Jacob Lloyd-Newman: I co-supervised this MSci research project during my PhD at Cardiff University. This work examined the potential drivers of bioerosion in massive <i>Porites</i> on an inshore reef in Fiji using computed tomography (CT) to quantify annual bioerion rates on a coral core. 
 
 ![](/images/research/Sponge gallery 30 degree rotation2.gif)
 
 ## Teaching assistant
-I assisted in the implementation of practical sessions as 'demonstrator' in the following undergraduate modules: 
+I assisted in the implementation of practical sessions as 'demonstrator' in the following undergraduate modules of various BSc programs at the School of Earth and Environmental Sciences (Cardiff University): 
 - Marine Environmental Systems (Year 2021-2022)
 - Coral Reefs (Year 2020-2021)
 - Biogeochemistry (Years 2019-2020, 2020-2021)    
