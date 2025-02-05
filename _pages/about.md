@@ -22,4 +22,4 @@ Hi there! I am a Postdoctoral Research Associate at the <a href='https://alyssaa
 I obtained a BSc in Environmental Sciences (University of Zaragoza, 2014) specialising in environmental education, and a MSci by Research in Earth Sciences at the University of Bristol (2018) investigating the potential of stylasterid deep-sea corals as paleotemperature archives. For my PhD, I researched coral growth from massive corals in Fiji and how they have been impacted by environmental and climate change over the last three decades using both sclerochronological and geochemical proxies. 
 
 
-<p style="font-size: 11px;"><i>Site last updated: October 2024</i></p>
+<p style="font-size: 11px;"><i>Site last updated: January 2025</i></p>
