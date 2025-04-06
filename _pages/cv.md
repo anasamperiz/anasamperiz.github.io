@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/pdf/20250205_AnaS_CV.pdf" 
+<iframe src="/files/pdf/20250406_AnaS_CV.pdf" 
        type="application/pdf"
        width="100%" 
        height="500" 
